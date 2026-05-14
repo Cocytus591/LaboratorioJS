@@ -1,4 +1,4 @@
-## Evaluación Práctica en Pareja: JavaScript Moderno – Nivel Medio‑Avanzado  
+## Evaluación Práctica en Pareja: JavaScript Moderno 
 **ID:** JS-001 | **Tiempo estimado:** 2 horas  
 
 **Instrucciones**  
